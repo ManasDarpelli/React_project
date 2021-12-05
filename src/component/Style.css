@@ -1,0 +1,40 @@
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    
+   }
+.card {
+  position: relative;
+  background-color: #fff;
+  width: 700px;
+  padding: 20px;
+  border-radius: 20px;
+  max-width: 25vw;
+  height: 50vh;
+  box-shadow: 0px 18px 53px 0px rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  background-position: center;
+  margin-top: 30vh;
+  cursor:pointer;
+
+}
+
+
+
+.card-media {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+}
+
+.card-tag {
+  text-align: center;
+}
+
+.swipe{
+  position:fixed;
+}
+

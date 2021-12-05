@@ -1,0 +1,15 @@
+.link-container{
+    display:flex;
+    justify-content: center;
+    border-bottom:1px solid violet;
+}
+
+.link{
+    margin: 5px;
+    text-decoration:none;
+}
+
+/* @media screen and (max-width:768px){
+    .link{
+    }
+} */
